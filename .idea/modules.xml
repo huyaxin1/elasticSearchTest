@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/elasticSearchTest.iml" filepath="$PROJECT_DIR$/elasticSearchTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdsearchtest/jdsearchtest.iml" filepath="$PROJECT_DIR$/jdsearchtest/jdsearchtest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test-1/test-1.iml" filepath="$PROJECT_DIR$/test-1/test-1.iml" />
+    </modules>
+  </component>
+</project>
